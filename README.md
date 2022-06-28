@@ -1,1 +1,2 @@
-<h4>Undertale Battle Assets By IceAce</h4>
+# GhostSans Battle Assets
+# Made By IceAce
