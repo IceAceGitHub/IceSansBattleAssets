@@ -1,1 +1,3 @@
-<h4>Undertale Battle Assets By IceAce</h4>
+# Undertake FanMade Battles Assets
+# Made By IceAce
+# Please don't remake any of my battles
